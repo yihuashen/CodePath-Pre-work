@@ -4,7 +4,7 @@
 
 Submitted by:Yihua Shen
 
-Time spent: **#** hours spent in total
+Time spent: 2.5 hours spent in total
 
 Link to project: https://glaze-thundering-answer.glitch.me
 
